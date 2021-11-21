@@ -1,0 +1,10 @@
+# 该目录文件所需的头文件目录
+INCLUDE_DIRECTORIES (${CMAKE_SOURCE_DIR}/include)
+
+# 递归当前目录及子目录下的所有cpp文件为SOURCE变量
+FILE (GLOB SOURCE "*.CPP")
+# 生成静态库
+ADD_LIBRARY (func ${SOURCE})
+
+SET(INCLUDE ${CMAKE_SOURCE_DIR}/include)
+TARGET_INClUDE_DIRECTORIES (func PUBLIC ${INCLUDE})
