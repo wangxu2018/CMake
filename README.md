@@ -11,7 +11,7 @@ CMake项目构建工具的使用
         main.cpp
         CMakeLists.txt
     - 操作步骤：
-        - Step1: mkdir build; cd buid
+        - Step1: mkdir build; cd build
         - Step2: cmake -G"Unix Makefiles" .. (or cmake -G"MinGW Makefiles" ..)
         - Step3: make
         - Step4: ./calc.exe
@@ -24,10 +24,10 @@ CMake项目构建工具的使用
             CMakeList.txt
         CMakeLists.txt
     - 操作步骤：
-        - Step1: mkdir build; cd buid
+        - Step1: mkdir build; cd build
         - Step2: cmake -G"Unix Makefiles" .. (or cmake -G"MinGW Makefiles" ..)
         - Step3: make
-        - Step4: ./calc.exe
+        - Step4: ./bin/calc.exe
 
 ## project_3
     - 描述：头文件、cpp文件和主CMakeList.txt文件不在同一个目录下面的情况
@@ -39,7 +39,7 @@ CMake项目构建工具的使用
             CMakeList.txt
         CMakeLists.txt
     - 操作步骤：
-        - Step1: mkdir build; cd buid
+        - Step1: mkdir build; cd build
         - Step2: cmake -G"Unix Makefiles" .. (or cmake -G"MinGW Makefiles" ..)
         - Step3: make
         - Step4: ./calc.exe
@@ -67,7 +67,7 @@ CMake项目构建工具的使用
         CMakeLists.txt
 
     - 操作步骤：
-        - Step1: mkdir build; cd buid
+        - Step1: mkdir build; cd build
         - Step2: cmake -G"Unix Makefiles" .. (or cmake -G"MinGW Makefiles" ..)
         - Step3: make
         - Step4: ./calc.exe
@@ -91,7 +91,7 @@ CMake项目构建工具的使用
         CMakeLists.txt
 
     - 操作步骤：
-        - Step1: mkdir build; cd buid
+        - Step1: mkdir build; cd build
         - Step2: cmake -G"Unix Makefiles" .. (or cmake -G"MinGW Makefiles" ..)
         - Step3: make
         - Step4: ./calc.exe
@@ -114,7 +114,7 @@ CMake项目构建工具的使用
         CMakeLists.txt
 
     - 操作步骤：
-        - Step1: mkdir build; cd buid
+        - Step1: mkdir build; cd build
         - Step2: cmake -G"Unix Makefiles" .. (or cmake -G"MinGW Makefiles" ..)
         - Step3: make
         - Step4: ./calc.exe
@@ -126,7 +126,7 @@ CMake项目构建工具的使用
         CMakeLists.txt
 
     - 操作步骤：
-        - Step1: mkdir build; cd buid
+        - Step1: mkdir build; cd build
         - Step2: cmake -G"Unix Makefiles" .. (or cmake -G"MinGW Makefiles" ..)
         - Step3: make
         - Step4: ./calc.exe
@@ -138,7 +138,7 @@ CMake项目构建工具的使用
         CMakeLists.txt
 
     - 操作步骤：
-        - Step1: mkdir build; cd buid
+        - Step1: mkdir build; cd build
         - Step2: cmake -G"Unix Makefiles" .. (or cmake -G"MinGW Makefiles" ..)
         - Step3: make
         - Step4: ./calc.exe
@@ -150,7 +150,7 @@ CMake项目构建工具的使用
         CMakeLists.txt
 
     - 操作步骤：
-        - Step1: mkdir build; cd buid
+        - Step1: mkdir build; cd build
         - Step2: cmake -G"Unix Makefiles" .. (or cmake -G"MinGW Makefiles" ..)
         - Step3: make
         - Step4: ./calc.exe
@@ -162,7 +162,7 @@ CMake项目构建工具的使用
         CMakeLists.txt
 
     - 操作步骤：
-        - Step1: mkdir build; cd buid
+        - Step1: mkdir build; cd build
         - Step2: cmake -G"Unix Makefiles" .. (or cmake -G"MinGW Makefiles" ..)
         - Step3: make
         - Step4: ./calc.exe
