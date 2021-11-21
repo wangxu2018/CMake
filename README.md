@@ -119,6 +119,28 @@ CMake项目构建工具的使用
         - Step3: make
         - Step4: ./calc.exe
 
+## project_5_simple
+    - 描述：头文件、cpp文件分开存放情况, project_5的简单实现
+    - 目录结构
+        - include
+            add.h
+            sub.h
+            mul.h
+            div.h
+        - src
+            add.cpp
+            sub.cpp
+            mul.cpp
+            div.cpp
+        main.cpp
+        CMakeLists.txt
+
+    - 操作步骤：
+        - Step1: mkdir build; cd build
+        - Step2: cmake -G"Unix Makefiles" .. (or cmake -G"MinGW Makefiles" ..)
+        - Step3: make
+        - Step4: ./calc.exe
+
 ## project_6
     - 描述：生成静态库
     - 目录结构
