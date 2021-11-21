@@ -142,10 +142,8 @@ CMake项目构建工具的使用
         - Step4: ./calc.exe
 
 ## project_6
-    - 描述：生成静态库
+    - 描述：生成静态库，前面项目有使用
     - 目录结构
-        main.cpp
-        CMakeLists.txt
 
     - 操作步骤：
         - Step1: mkdir build; cd build
@@ -154,10 +152,8 @@ CMake项目构建工具的使用
         - Step4: ./calc.exe
 
 ## project_7
-    - 描述：使用静态库
+    - 描述：使用静态库，前面项目有使用
     - 目录结构
-        main.cpp
-        CMakeLists.txt
 
     - 操作步骤：
         - Step1: mkdir build; cd build
@@ -166,10 +162,8 @@ CMake项目构建工具的使用
         - Step4: ./calc.exe
 
 ## project_8
-    - 描述：生成动态库
+    - 描述：生成动态库，前面项目有使用
     - 目录结构
-        main.cpp
-        CMakeLists.txt
 
     - 操作步骤：
         - Step1: mkdir build; cd build
@@ -178,10 +172,8 @@ CMake项目构建工具的使用
         - Step4: ./calc.exe
 
 ## project_9
-    - 描述：使用动态库
+    - 描述：使用动态库，前面项目有使用
     - 目录结构
-        main.cpp
-        CMakeLists.txt
 
     - 操作步骤：
         - Step1: mkdir build; cd build
