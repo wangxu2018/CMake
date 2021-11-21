@@ -42,7 +42,7 @@ CMake项目构建工具的使用
         - Step1: mkdir build; cd build
         - Step2: cmake -G"Unix Makefiles" .. (or cmake -G"MinGW Makefiles" ..)
         - Step3: make
-        - Step4: ./calc.exe
+        - Step4: ./bin/calc.exe
 
 ## project_4
     - 描述：多个（头文件、cpp文件）搭配的目录情况
